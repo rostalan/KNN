@@ -1,0 +1,4 @@
+Odkaz na model:
+https://github.com/nlpyang/PreSumm
+
++ provedeny mírné úpravy pro kompatibilitu se SumeCzech
